@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Erdogan
-- 👀 I’m working on Capstone Project.
+- 👀 I’m working on Projects.
 - 🌱 I’m currently learning Python, SQL, Tableau, Power BI, Matplotlib, Seaborn, Scipy, ML, DL, NLP.
 - 💞️ I’m looking to collaborate on new ideas.
 - 💬 Ask me about Data Analysis and Data Science.
